@@ -1,4 +1,4 @@
-# 🏨 Hotel Reservation System
+# 🏨 HospeDATE Services
 
 Sistema backend para la gestión de **reservas hoteleras HospeDATE**, desarrollado con **Java y Spring Boot**.  
 Permite administrar usuarios, habitaciones, reservas, servicios adicionales y pagos asociados a cada reserva.
